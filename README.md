@@ -1,6 +1,8 @@
 # 🏠 Sublive Community Repo 
 
 
+Join in our discussions => [discussions](https://github.com/weepy/sublive/discussions)
+
 Please feel free to:
 
 * add feature requests 💡
